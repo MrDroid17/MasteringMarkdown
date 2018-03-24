@@ -80,6 +80,10 @@ ___
 
 ![Mark down Logo](https://markdown-here.com/img/icon256.png)
 
+<div align="center">
+	<img src="https://markdown-here.com/img/icon256.png" width="320">
+</div>
+
 
 <!-- Github Markdown -->
 <!-- Code block -->
